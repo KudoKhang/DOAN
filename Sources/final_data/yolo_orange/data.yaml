@@ -1,0 +1,5 @@
+train: yolo_orange/train/images
+val: yolo_orange/valid/images
+
+nc: 1
+names: ['Orange']
